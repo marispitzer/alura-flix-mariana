@@ -13,5 +13,16 @@ body{
     color: var(--branco-principal);
 }
 .principal{
-    background-image: url(Background.png)
+    background-image: url(Background.png);
+    background-repeat: no-repeat; 
+    background-size: contain;
 }
+ .container{
+    height: 100vh;
+ }
+ .container_botao{
+    background-color: var(--botao-azul);
+    color: var(--branco-principal);
+    border-radius: 5px;
+
+ }
