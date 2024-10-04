@@ -1,1 +1,1 @@
-# AluraFlix2A
+# alura-flix
